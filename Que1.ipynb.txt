@@ -1,0 +1,3 @@
+# Questions 1:
+# Given the following jumbled word, OBANWRI guess the correct English word.
+ANS: RAINBOW
